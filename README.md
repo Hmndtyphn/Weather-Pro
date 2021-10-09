@@ -1,8 +1,12 @@
 # Weather-Pro
 A simple 5 day forecast web application using openweather API and bootstrap/ jquery
 
-This is a 5 day forecast application. 
+This weather application can search from your currenty city to show the days temperature, wind speed, humidity, and uv index.
+An icon will show to give a glimpse of the days current weather.
 
+The application also shows the 5 day forecast below, showing the date, an icon of the days estimated weather conditions, windspeed, and humidity. 
+
+You can search by your most recent searchs on the left hand panel, for a quick and efficient access to weather of your favorite destionation. 
 
 
 <p align="center">
