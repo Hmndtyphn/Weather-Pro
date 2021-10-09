@@ -6,7 +6,9 @@ An icon will show to give a glimpse of the days current weather.
 
 The application also shows the 5 day forecast below, showing the date, an icon of the days estimated weather conditions, windspeed, and humidity. 
 
-You can search by your most recent searchs on the left hand panel, for a quick and efficient access to weather of your favorite destionation. 
+You can search by your most recent searchs on the left hand panel, for quick and efficient access to weather of your favorite destination. 
+
+Link to deployed site: https://hmndtyphn.github.io/Weather-Pro/
 
 
 <p align="center">
